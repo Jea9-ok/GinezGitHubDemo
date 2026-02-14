@@ -1,2 +1,2 @@
 # GinezGitHubDemo
-github demo for cs
+print("Hello, GitHub !")
